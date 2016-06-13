@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_79"/>
+	<classpathentry kind="lib" path="C:/Users/Nick p/Documents/Nick/Uni/2015/S2/SOFTENG 206/vlcj-3.8.0/jna-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nick p/Documents/Nick/Uni/2015/S2/SOFTENG 206/vlcj-3.8.0/platform-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nick p/Documents/Nick/Uni/2015/S2/SOFTENG 206/vlcj-3.8.0/slf4j-api-1.7.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nick p/Documents/Nick/Uni/2015/S2/SOFTENG 206/vlcj-3.8.0/vlcj-3.8.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
